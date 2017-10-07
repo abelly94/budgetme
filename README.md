@@ -6,10 +6,10 @@ I plan to make a nice GUI using tkinter however I may port the program to either
 
 Currently planned functionality is as follows but I will likely alter it as I go.
 
-*Maintain monthly budget
-*Utilize SQLite db for transactions
-*long term analysis of transactions
-*Long term financial planning
-*Setting goals over time
-*Analysis of retirement
-*Multiple accounts  
+-Maintain monthly budget
+-Utilize SQLite db for transactions
+-long term analysis of transactions
+-Long term financial planning
+-Setting goals over time
+-Analysis of retirement
+-Multiple accounts  
